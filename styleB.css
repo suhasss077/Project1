@@ -2,7 +2,7 @@ body {
     background-color: white;
 }
 .mainpage {
-    display: flex;           
+    display: flex;
     gap: 10px;
     padding: 10px;
 }
@@ -15,11 +15,13 @@ body {
     font-family: Tahoma, sans-serif;
     font-size: 40px;
     padding: 10px;
-    }
+    text-align: left;
+
+}
 .aa:hover,.bb:hover,.cc:hover,.dd:hover,.ee:hover,.ff:hover {
     background-color: yellow;
     color: goldenrod;
-} 
+}
 .ff {
     position: absolute;
     bottom: 10px;
